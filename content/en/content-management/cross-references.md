@@ -68,7 +68,6 @@ The above examples render as follows for this very page as well as a reference t
 {{</* relref "/blog/post.md#who" */>}} => /blog/post/#who:badcafe
 ```
 
-More information about document unique identifiers and headings can be found [below]({{< ref "#hugo-heading-anchors" >}}).
 
 
 ## Ref and RelRef Configuration
